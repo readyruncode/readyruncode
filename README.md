@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me
+Developer with almost 5 years experience in the software development business. Most of that time has been spent on iOS development, which is also what I'm absolutely most passionate about.
+
+During my short career I've worked on several native iOS apps dealing with maps and user location, persisting data on device, branding multiple targets, localization and more.
+
+Science fiction enthusiast. Frequent runner, training to complete a marathon. Father of one. Husband. Cat person.
 
 <!--
 **readyruncode/readyruncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
