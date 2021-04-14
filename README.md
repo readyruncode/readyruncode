@@ -5,7 +5,7 @@ During my short career I've worked on several native iOS apps dealing with maps 
 
 Science fiction enthusiast. Frequent runner, training to complete a marathon. Father of one. Husband. Cat person.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=readyruncode&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=readyruncode&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **readyruncode/readyruncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
