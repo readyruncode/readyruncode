@@ -1,5 +1,5 @@
 ### About me
-Been building up experience in the software development business since 2014. Most of that time has been spent on iOS development, which is also what I'm absolutely most passionate about.
+Been building experience in the software development business since 2014. Most of that time has been spent on iOS development, which is also what I'm absolutely most passionate about.
 
 During this time I've worked on several native iOS apps dealing with maps and user location, persisting data on device, branding multiple targets, localization and more.
 
